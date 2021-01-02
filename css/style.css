@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif;
+	padding: 0 0 0 20px;
+}
+
+h1 {
+	font-family: impact;
+	color: darkred;
+	font-size: 2em;
+}
+
+ul {
+	margin: 0;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 960px;
+}

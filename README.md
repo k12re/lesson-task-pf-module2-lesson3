@@ -2,7 +2,7 @@
 
 ## Lesson Task 3 Questions
 
-### Question
+### Question 1
 
 Console log the `price` property from the object below:
 
@@ -13,7 +13,7 @@ var product = {
 };
 ```
 
-### Question
+### Question 2
 
 Loop through the array below and console log each `colour` property.
 
@@ -38,7 +38,7 @@ var animals = [
 ];
 ```
 
-### Question
+### Question 3
 
 Loop through the array below and console log each name property only if it is on special.
 
@@ -50,36 +50,36 @@ var dinnerOptions = [
 ];
 ```
 
-### Question
+### Question 4
 
-Loop through the array below and log each person's name and surname if they are between the ages of 20 and 50:
+Loop through the array below and log each person's name and surname if they are between the ages of 20 and 50 (including 20 and 50):
 
 ```js
 var people = [
 	{
-		name: "Burt",
-		surname: "Smacharach",
+		firstName: "Burt",
+		lastName: "Smacharach",
 		age: 35,
 	},
 	{
-		name: "Elvis",
-		surname: "Deadly",
+		firstName: "Elvis",
+		lastName: "Deadly",
 		age: 55,
 	},
 	{
-		name: "Susan",
-		surname: "Sarongson",
+		firstName: "Susan",
+		lastName: "Sarongson",
 		age: 42,
 	},
 	{
-		name: "Big",
-		surname: "Gabe",
-		age: 21,
+		firstName: "Big",
+		lastName: "Gabe",
+		age: 20,
 	},
 ];
 ```
 
-### Question
+### Question 5
 
 Select the `ul` element in the HTML file, loop through the array below and create a `li` element containing the product name and price properties.
 
